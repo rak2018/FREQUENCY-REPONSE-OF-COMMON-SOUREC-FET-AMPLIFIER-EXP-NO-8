@@ -2,11 +2,8 @@
 # AIM AND APPARATUS REQUIRED 
 <img width="509" height="836" alt="image" src="https://github.com/user-attachments/assets/9f595b02-3222-4a6d-9a74-e5c993a16514" />
 
-# CIRCUIT DIAGRAM 
-<img width="377" height="323" alt="image" src="https://github.com/user-attachments/assets/3ff8df1f-b197-4c2d-b1fe-ab07198954b9" />
-
-# MODEL GRAPH 
-<img width="372" height="324" alt="image" src="https://github.com/user-attachments/assets/75443c54-2b6f-4632-9306-542aad7f52b4" />
+# CIRCUIT DIAGRAM AND MODEL GRAPH
+<img width="916" height="1116" alt="image" src="https://github.com/user-attachments/assets/a3f5834a-2069-46ce-9dc1-4a44fdd9763d" />
 
 # THEORY
 <img width="548" height="905" alt="image" src="https://github.com/user-attachments/assets/3bfe6eef-2379-4a69-9106-9f20b90cdf42" />
